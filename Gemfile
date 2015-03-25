@@ -29,6 +29,9 @@ gem 'newrelic_rpm'
 # gem 'google-analytics-rails'
 # gem 'http_accept_language'
 # gem 'resque', require: 'resque/server' # Resque web interface
+gem 'dotenv-rails', :groups => [:development, :test]
+gem 'json'
+gem 'httparty'
 gem 'slim-rails'
 
 # Assets
