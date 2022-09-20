@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '3.0.3'
+ruby '3.1.0'
 gem 'rails', '4.2.0'
 
 # Servers
